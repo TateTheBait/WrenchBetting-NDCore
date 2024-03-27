@@ -84,4 +84,4 @@ RegisterCommand("payout", function(id, args)
         end
         endbet()
     end
-end, true)
+end, false)
